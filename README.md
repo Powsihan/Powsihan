@@ -32,6 +32,16 @@
   </a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/>
   </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.typescriptlang.org/logo/TypeScript_logo_2020.svg" alt="typescript" width="40" height="40"/>
+</a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
+    <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="redux" width="40" height="40"/>
+</a>
+<a href="https://github.com/pmndrs/zustand" target="_blank" rel="noreferrer">
+    <img src="https://github.com/pmndrs/zustand/raw/main/website/static/img/zustand.png" alt="zustand" width="40" height="40"/>
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=powsihan&show_icons=true&locale=en&layout=compact" alt="powsihan" /></p>
