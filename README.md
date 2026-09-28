@@ -1,50 +1,99 @@
 ![MasterHead](https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-49-1.webp)
+
 <h1 align="center">Hi 👋, I'm Powsihan</h1>
-<h3 align="center">A passionate Software Engineer from Srilanka</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=powsihan&label=Profile%20views&color=0e75b6&style=flat" alt="powsihan" /> </p>
-
-- 🌱 I’m currently learning **Computer Science and Technology**
-
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **powsipowsihan07@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/powsi_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="powsi_07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/powsihan indrakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="powsihan indrakumar" height="30" width="40" /></a>
-<a href="https://fb.com/powsi powsihan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="powsi powsihan" height="30" width="40" /></a>
-<a href="https://instagram.com/powsi_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="powsi_07" height="30" width="40" /></a>
-<a href="https://www.powsi.dev/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=VJz2Ob51dvZJ&format=png&color=000000" alt="powsi_07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/powsi _07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="powsi _07" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.powsi.dev/">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+Specialist;React+%7C+Next.js+%7C+TypeScript;Turning+designs+into+seamless+experiences" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> </a><a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40" height="40"/></a>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" width="40" height="40"/></a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/>
-</a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://redux.js.org/img/redux-logo-landscape.png" alt="redux" width="40" height="40"/>
-</a>
+<h3 align="center">Software Engineer from Sri Lanka 🇱🇰 · Crafting fast, beautiful & accessible web interfaces</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=powsihan&label=Profile%20views&color=0ea5e9&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Frontend-0ea5e9?style=flat-square" alt="focus" />
+  <img src="https://img.shields.io/badge/Degree-First%20Class%20Honours-f59e0b?style=flat-square" alt="first class" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=powsihan&show_icons=true&locale=en&layout=compact" alt="powsihan" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=powsihan&show_icons=true&locale=en" alt="powsihan" /></p>
+## 🙋‍♂️ About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=powsihan&" alt="powsihan" /></p>
+<img align="right" alt="Coding" width="380" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
+- 🎓 Graduated with **First Class Honours** in **Computer Science and Technology** from **Uva Wellassa University**
+
+- 💻 **Software Engineer** working across the full stack, with deep expertise in **frontend development**
+
+- 🎨 I build **pixel-perfect, responsive and accessible** UIs from design to production
+
+- ⚡ Obsessed with **performance, clean component architecture** and smooth user experiences
+
+- 💬 Ask me about **React, Next.js, TypeScript and UI/UX**
+
+- 📫 Reach me at **powsihan.dev@gmail.com**
+
+- 😄 Fun fact: **I am funny**
+
+<br clear="right"/>
+
+---
+
+## 🎨 Frontend Mastery
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,bootstrap&perline=9" alt="frontend skills" />
+  <br/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">🧩<br/><b>Component Architecture</b><br/><sub>Reusable, scalable UI systems</sub></td>
+    <td align="center" width="25%">🔄<br/><b>State Management</b><br/><sub>Redux & predictable data flow</sub></td>
+    <td align="center" width="25%">📱<br/><b>Responsive & Accessible</b><br/><sub>Every screen, every user</sub></td>
+    <td align="center" width="25%">🚀<br/><b>Performance</b><br/><sub>Fast loads, smooth interactions</sub></td>
+  </tr>
+</table>
+
+## ⚙️ Backend, Cloud & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,django,php,postgres,mysql,mongodb,aws&perline=9" alt="backend skills" />
+</p>
+
+## 🛠️ Tools & Design
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,ps,pr,arduino,c&perline=9" alt="tools" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=powsihan&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&locale=en" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=powsihan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&locale=en" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=powsihan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.powsi.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/powsihan-indrakumar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:powsihan.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://twitter.com/powsi_07" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/powsi_07" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://fb.com/powsi.powsihan" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.hackerrank.com/powsi_07" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+</p>
+
+<p align="center"><i>⭐ Thanks for stopping by! Let's build something great together.</i></p>
