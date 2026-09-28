@@ -74,8 +74,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=powsihan&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&locale=en" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=powsihan&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&locale=en" alt="Top languages" />
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile details" />
+</p>
+
+<p align="center">
+  <img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="stats" />
+  <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="top languages" />
 </p>
 
 <p align="center">
