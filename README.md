@@ -1,4 +1,4 @@
-![MasterHead](https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-49-1.webp)
+![MasterHead](https://i.postimg.cc/8CCw8JSv/Engineering-ideas-into-reality.png)
 
 <h1 align="center">Hi 👋, I'm Powsihan</h1>
 
